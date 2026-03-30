@@ -1,0 +1,6 @@
+[submodule "loper-api"]
+	path = loper-api
+	url = git@github.com:fwierda/loper-api.git
+[submodule "loper-ui"]
+	path = loper-ui
+	url = git@github.com:fwierda/loper-ui.git
