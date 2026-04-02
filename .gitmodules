@@ -7,3 +7,6 @@
 [submodule "loper-native"]
 	path = loper-native
 	url = git@github.com:fwierda/loper-native.git
+[submodule "loper-website"]
+	path = loper-website
+	url = git@github.com:fwierda/loper-website.git
