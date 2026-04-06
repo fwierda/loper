@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/f.w.wierda/personal-projects/loper/loper-api status)",
+      "Bash(git -C /Users/f.w.wierda/personal-projects/loper/loper-api diff)",
+      "Bash(git -C /Users/f.w.wierda/personal-projects/loper/loper-api log --oneline -5)",
+      "Bash(git rebase:*)"
+    ]
+  }
+}
